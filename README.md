@@ -1,7 +1,7 @@
-# https://solidity-by-example.org/
+# https://solidity-by-example.org/  ✅
 
 ```
-Hello World
+Hello World ✅
 First App
 Primitive Data Types
 Variables
