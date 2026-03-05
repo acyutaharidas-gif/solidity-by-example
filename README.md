@@ -10,7 +10,7 @@ Immutable ✅
 Reading and Writing to a State Variable ✅
 Ether and Wei ✅
 Gas and Gas Price ✅
-If / Else
+If / Else ✅
 For and While Loop
 Mapping
 Array
