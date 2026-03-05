@@ -2,14 +2,14 @@
 
 ```
 Hello World ✅
-First App
-Primitive Data Types
-Variables
-Constants
-Immutable
-Reading and Writing to a State Variable
-Ether and Wei
-Gas and Gas Price
+First App ✅
+Primitive Data Types ✅
+Variables ✅
+Constants ✅
+Immutable ✅
+Reading and Writing to a State Variable ✅
+Ether and Wei ✅
+Gas and Gas Price ✅
 If / Else
 For and While Loop
 Mapping
