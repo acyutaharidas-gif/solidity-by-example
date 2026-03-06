@@ -11,8 +11,8 @@ Reading and Writing to a State Variable ✅
 Ether and Wei ✅
 Gas and Gas Price ✅
 If / Else ✅
-For and While Loop
-Mapping
+For and While Loop ✅
+Mapping ✅
 Array
 Enum
 User Defined Value Types
