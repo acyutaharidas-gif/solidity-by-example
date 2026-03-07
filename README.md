@@ -13,11 +13,11 @@ Gas and Gas Price ✅
 If / Else ✅
 For and While Loop ✅
 Mapping ✅
-Array
-Enum
-User Defined Value Types
-Structs
-Data Locations - Storage, Memory and Calldata
+Array ✅
+Enum ✅
+User Defined Value Types - 
+Structs ✅
+Data Locations - Storage, Memory and Calldata ✅
 Transient Storage
 Function
 View and Pure Functions
