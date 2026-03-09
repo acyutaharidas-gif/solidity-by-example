@@ -18,11 +18,11 @@ Enum ✅
 User Defined Value Types - 
 Structs ✅
 Data Locations - Storage, Memory and Calldata ✅
-Transient Storage
-Function
-View and Pure Functions
-Error
-Function Modifier
+Transient Storage - 
+Function ✅
+View and Pure Functions ✅
+Error ✅
+Function Modifier ✅
 Events
 Events Advanced
 Constructor
