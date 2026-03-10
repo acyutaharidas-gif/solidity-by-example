@@ -23,11 +23,11 @@ Function ✅
 View and Pure Functions ✅
 Error ✅
 Function Modifier ✅
-Events
-Events Advanced
-Constructor
-Inheritance
-Shadowing Inherited State Variables
+Events ✅
+Events Advanced - 
+Constructor - 
+Inheritance -
+Shadowing Inherited State Variables -
 Calling Parent Contracts
 Visibility
 Interface
