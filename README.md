@@ -28,14 +28,14 @@ Events Advanced -
 Constructor - 
 Inheritance -
 Shadowing Inherited State Variables -
-Calling Parent Contracts
-Visibility
-Interface
-Payable
-Sending Ether - Transfer, Send, and Call
-Fallback
-Call
-Delegatecall
+Calling Parent Contracts -
+Visibility -
+Interface -
+Payable -
+Sending Ether - Transfer, Send, and Call -
+Fallback ❌
+Call ❌
+Delegatecall ❌
 Function Selector
 Calling Other Contract
 Creating Contracts from a Contract
@@ -54,6 +54,7 @@ Assembly Conditional Statements
 Assembly Loop
 Assembly Error
 Assembly Math
+---
 Applications
 Ether Wallet
 Multi Sig Wallet
@@ -62,6 +63,7 @@ Iterable Mapping
 ERC20
 ERC721
 ERC1155
+---
 Gasless Token Transfer
 Simple Bytecode Contract
 Precompute Contract Address with Create2
@@ -79,6 +81,7 @@ Multi Delegatecall
 Time Lock
 Assembly Binary Exponentiation
 Merkle Airdrop
+---
 Hacks
 Re-Entrancy
 Arithmetic Overflow and Underflow
@@ -114,6 +117,7 @@ Sign
 Label
 Mock Call
 Store
+---
 DeFi
 Uniswap V2 Swap
 Uniswap V2 Add Remove Liquidity
